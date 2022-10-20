@@ -1,16 +1,16 @@
 {
-"name": "you168",
-"theme": "you168",
-"version": "1.5.2",
-"description": "you168 สมัครเว็บสล็อตเว็บตรง อันดับ 1 รับโบนัสเครดิตฟรี",
-"keywords": [
-"you168",
-"you168 เครดิตฟรี",
-"you168 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/you168",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "you168",
+  "theme": "you168",
+  "version": "1.6.0",
+  "description": "you168 สมัครเว็บสล็อตเว็บตรง อันดับ 1 รับโบนัสเครดิตฟรี",
+  "keywords": [
+    "you168",
+    "you168 เครดิตฟรี",
+    "you168 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/you168",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
